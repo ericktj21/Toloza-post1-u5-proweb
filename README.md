@@ -25,4 +25,13 @@ Proyecto Java Web con Servlet + JSP + JSTL para listar, agregar y eliminar tarea
 ## Entrega GitHub
 Nombre sugerido: `apellido-post1-u5`
 
-Publicacion independiente r2: 2026-04-17 07:26:28
+## Capturas de Pantalla
+
+**1. Interfaz principal:**
+![Vista principal de tareas](img/pantalla_inicio.png)
+
+**2. Nueva tarea registrada:**
+![Tarea registrada en el sistema](img/agregar_cap.png)
+
+**3. Validación de errores (campos vacíos):**
+![Validación de formulario](img/lista_vacia.png)
