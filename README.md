@@ -24,5 +24,3 @@ Proyecto Java Web con Servlet + JSP + JSTL para listar, agregar y eliminar tarea
 
 ## Entrega GitHub
 Nombre sugerido: `apellido-post1-u5`
-
-Publicacion independiente r2: 2026-04-17
